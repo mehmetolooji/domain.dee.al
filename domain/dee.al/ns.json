@@ -109,7 +109,31 @@
  "koneksi" : "NS",
  "hostku" : "herobrine",
  "target": "ns2.vercel-dns.com"
-    }
-
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "mehmetoloji",
+ "target": "ns1.byet.org"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "mehmetoloji",
+ "target": "ns2.byet.org"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "mehmetoloji",
+ "target": "ns3.byet.org"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "mehmetoloji",
+ "target": "ns4.byet.org"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "mehmetoloji",
+ "target": "ns5.byet.org"
+  },
 ]
   
